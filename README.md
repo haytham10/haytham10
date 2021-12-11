@@ -1,4 +1,6 @@
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=hmokhtar)](https://github.com/mohouyizme/1337-readme)
+
 - 👋 Hi, I’m @haytham
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently a student at @1337FIL
-- 📫 How to reach me: haytham.mkt@gmail.com
+- 👀 \\ Interested in Game Development
+- 🌱 \\ Currently a student at @1337FIL
+- 📫 \\ Reach me on: haytham.mkt@gmail.com
