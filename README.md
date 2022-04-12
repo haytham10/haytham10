@@ -11,7 +11,7 @@
 
 <h2> About Me <img src = "https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on Learning new new things every day!
@@ -21,10 +21,7 @@
 - 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about Game Development, and 3D Art. 
- 
-  
-<h2> My Status ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haytham10&show_icons=true&theme=tokyonight) </h2>
-  
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/haytham10?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
