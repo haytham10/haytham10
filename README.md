@@ -14,11 +14,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Learning new new things every day!
+- 🔭 Working on Improving my Social Skills.
 
-- 🌱 I’m currently learning The C Language Family (C, C++, and C#) 
-
-- 👯 I’m looking to collaborate on  
+- 🌱 Learning The C Language Family (C, C++, and C#) 
 
 - 💬 Talk to me about Game Development, and 3D Art. 
 
