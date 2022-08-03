@@ -17,7 +17,7 @@
 
 - 🔭 Working on Improving my Social Skills.
 
-- 🌱 Learning The C Language Family (C, C++, and C#) 
+- 🌱 Learning The Web Development and C Programming. 
 
 - 💬 Talk to me about Game Development, and 3D Art. 
 
