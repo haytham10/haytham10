@@ -50,4 +50,4 @@
 
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/haytham10?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haytham10)](https://github.com/anuraghazra/github-readme-stats)
