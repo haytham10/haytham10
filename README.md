@@ -19,25 +19,25 @@
  <a href="https://dev.to/haytham10" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
  </a>
- <a href="https://twitter.com/_haytham10" target="_blank">
+ <a href="https://twitter.com/haytham_mkt" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="https://instagram.com/_haytham10" target="_blank">
+ <a href="https://instagram.com/_haytham._" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a> 
- <a href="https://facebook.com/haytham10.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a> 
-</p>
+ </a>  
 </p>
 
 ## About Me
+
+ <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhwcTcwbmZ5cm80YXg0eWY1Nmh2ZXJjNHNnc28zNmk3N3h3c2xyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kKRmK1hUQvvgS79yB3/giphy.gif" alt="Coding gif" />
 
 - 🕵️ I’m currently working on a top-secret mission.
 - 💬 Ask me anything related to C,C++, and low-level programming.
 - ⚡ Fun fact: I use tabs over spaces
 - ✉ contact me here: haytham.mkt@gmail.com
 
+  <br/>
+  <br/>
 ## Languages:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -67,7 +67,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Top Open Source -
+## Repos:
 [![ft_IRC](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=ft_IRC&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/ft_IRC)
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=Cub3D&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/Cub3D)
 [![minishell](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=minishell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/minishell)
@@ -81,23 +81,18 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/haytham10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haytham10&theme=radical&border=7F3FBF&background=0D1117" alt="Haytham's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/haytham10">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haytham10&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haytham10&theme=radical" alt="Haytham's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/haytham10"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=haytham10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/haytham10"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=haytham10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/haytham10"><img alt="Haytham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=haytham10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/haytham10"><img alt="Haytham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=haytham10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=haytham10&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Haytham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=haytham10&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
