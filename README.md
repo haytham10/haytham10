@@ -71,7 +71,7 @@
 [![Ft_Trancendence](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=Ft_Trancendence&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/Ft_Trancendence)
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=Cub3D&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/Cub3D)
 [![ft_IRC](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=ft_IRC&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/ft_IRC)
-[![inception](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=inception&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/haytham10/inception)
+[![inception](https://github-readme-stats.vercel.app/api/pin/?username=haytham10&repo=inception&border_color=7F3FBF&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=7f3fbf)](https://github.com/haytham10/inception)
 
 
 <p align="left">
