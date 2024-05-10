@@ -6,7 +6,7 @@
 <p align="center"> 
  <br/>
   <samp>
-    「 I am a passionate Full-Stack Engineer 」
+    「 Full-Stack Engineer 」
   </samp>
  
 <p align="center">
