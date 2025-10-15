@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" height="300" src="https://pbs.twimg.com/profile_banners/974996996401565696/1521292913/1500x500" alt="cover" />
+  <img width="1000" height="300" src="https://github.com/user-attachments/assets/7921e6cb-9261-4391-a7cc-9f0cb1a245c7" alt="cover" />
 </div>
 
 
